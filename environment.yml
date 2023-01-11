@@ -16,4 +16,5 @@ dependencies:
       - tensorflow >= 2.4.3
       - tensorflow-addons
       - tensorflow_datasets
+      - tensorboard
       - wget
